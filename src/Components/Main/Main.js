@@ -4,7 +4,8 @@ import { Row, Col } from 'react-bootstrap';
 import './Main.css';
 import '../Header/Header.css';
 import SectionOne from './SectionOne/SectionOne';
-import SectionTwo from './SectionTwo/SectionTwo'
+import SectionTwo from './SectionTwo/SectionTwo';
+import SectionThree from './SectionThree/SectionThree';
 const Main = (props) => {
     return (
         <main>
@@ -12,6 +13,7 @@ const Main = (props) => {
                 <Col className="px-0" md={{ size: 9, offset: 3 }}>
                     <SectionOne></SectionOne>
                     <SectionTwo></SectionTwo>
+                    <SectionThree></SectionThree>
                 </Col>
             </Row>
         </main>

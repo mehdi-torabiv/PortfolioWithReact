@@ -27,3 +27,8 @@ body {
   background-position: 40% 0;
   box-shadow: 0px 5px 15px 0.5px rgba(0, 0, 0, 0.692);
 }
+
+.skill .bars p,
+.site-content .skill .bars span {
+  line-height: 10px;
+}
