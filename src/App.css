@@ -1,6 +1,6 @@
-@import 'bootstrap/dist/css/bootstrap.min.css';
-@import url('https://fonts.googleapis.com/css?family=Baloo+Chettan+2&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Oswald|Rambla|Staatliches&display=swap');
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import url("https://fonts.googleapis.com/css?family=Baloo+Chettan+2&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Oswald|Rambla|Staatliches&display=swap");
 
 body {
   margin: 0;
