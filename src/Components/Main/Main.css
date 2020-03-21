@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+}
 .siteBanner .bannerArea {
   background: url(../../assets/person-in-red-jacket-and-black-pants-walking-on-snow-covered-3848197.jpg)
     no-repeat;
