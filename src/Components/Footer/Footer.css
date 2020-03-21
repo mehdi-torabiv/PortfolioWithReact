@@ -1,0 +1,13 @@
+#footer form .row .col input[type="text"],
+#footer form .row .col input[type="email"],
+#footer form textarea {
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid gray;
+    padding: 1.5rem 1rem;
+}
+
+i:hover {
+    color: rgb(255, 60, 0);
+    transition: .5s;
+}
