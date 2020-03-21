@@ -7,6 +7,7 @@ import SectionOne from './SectionOne/SectionOne';
 import SectionTwo from './SectionTwo/SectionTwo';
 import SectionThree from './SectionThree/SectionThree';
 import SectionFour from './SectionFour/SectionFour';
+import SectionFive from './SectionFive/SectionFive';
 const Main = (props) => {
     return (
         <main>
@@ -16,6 +17,7 @@ const Main = (props) => {
                     <SectionTwo></SectionTwo>
                     <SectionThree></SectionThree>
                     <SectionFour></SectionFour>
+                    <SectionFive></SectionFive>
                 </Col>
             </Row>
         </main>
