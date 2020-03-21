@@ -1,5 +1,7 @@
 import React from 'react';
 import { Row, Col, ProgressBar } from 'react-bootstrap';
+import '../../Header/Header.css';
+import '../Main.css';
 const SectionFour = () => {
     return (
         <div className="services-area px-4 py-5" id="services">
