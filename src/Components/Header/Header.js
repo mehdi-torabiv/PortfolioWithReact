@@ -16,10 +16,10 @@ const Header = (props) => {
                         </Navbar.Brand>
                         <Nav className="d-flex flex-column">
                             <Nav.Link className="navLink fontOs text-white-50 fontSize16 active" href="#home">Home</Nav.Link>
-                            <Nav.Link className="navLink fontOs text-white-50 fontSize16 active" href="#About">About</Nav.Link>
+                            <Nav.Link className="navLink fontOs text-white-50 fontSize16 active" href="#about_me">About</Nav.Link>
                             <Nav.Link className="navLink fontOs text-white-50 fontSize16 active" href="#Services">Services</Nav.Link>
-                            <Nav.Link className="navLink fontOs text-white-50 fontSize16 active" href="#Portfolio">Portfolio</Nav.Link>
-                            <Nav.Link className="navLink fontOs text-white-50 fontSize16 active" href="#News">News</Nav.Link>
+                            <Nav.Link className="navLink fontOs text-white-50 fontSize16 active disabled" href="#Portfolio">Portfolio</Nav.Link>
+                            <Nav.Link className="navLink fontOs text-white-50 fontSize16 active disabled" href="#News">News</Nav.Link>
                             <Nav.Link className="navLink fontOs text-white-50 fontSize16 active" href="#Contact">Contact Us</Nav.Link>
                         </Nav>
                     </Navbar>

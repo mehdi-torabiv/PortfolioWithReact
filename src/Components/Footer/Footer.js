@@ -5,7 +5,7 @@ import './Footer.css';
 import { Row, Col } from 'react-bootstrap';
 const Footer = (props) => {
     return (
-        <div id="footer" className="pt-5 px-3">
+        <div id="Contact" className="pt-5 px-3">
             <div id="contact_us">
                 <div className="py-3 px-2">
                     <h5 className="text-uppercase fontSize16 fontOs text-muted">

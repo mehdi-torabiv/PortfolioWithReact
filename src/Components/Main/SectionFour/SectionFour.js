@@ -4,7 +4,7 @@ import '../../Header/Header.css';
 import '../Main.css';
 const SectionFour = () => {
     return (
-        <div className="services-area px-4 py-5" id="services">
+        <div className="services-area px-4 py-5" id="Services">
             <div className="do py-5">
                 <h5 className="text-uppercase fontSize16 fontOs text-muted">
                     What i do
